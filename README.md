@@ -75,9 +75,8 @@ Poetry](https://python-poetry.org/docs/#installation) and running
 ```
 
 After installing [LilyPond](https://lilypond.org/), running `poetry
-run transform --out lilypond` produces [clapping.ly](clapping.ly),
-(mis)using LilyPond's `congas-style`, and then
-[clapping.pdf](clapping.pdf).
+run transform --out lilypond` produces [clapping.ly](clapping.ly) and
+then [clapping.pdf](clapping.pdf).
 
 (A couple of days before I got this working, I used the [didactic
 pattern
